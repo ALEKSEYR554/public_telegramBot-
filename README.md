@@ -1,5 +1,6 @@
 # public_telegramBot
 Телеграм бот для ведения канала аниме или подобной тематики
+Есть функция автопринятия запросов на вступление в канал
 # Подготовка перед запуском
 Убедитесь что вы заполнили все пропуски в файлах [mac-shake](https://github.com/ALEKSEYR554/public_telegramBot-/blob/main/library/mac-shake.rb) и [texts](https://github.com/ALEKSEYR554/public_telegramBot-/blob/main/library/texts.rb)
 # Возможности бота со стороны пользователя:
