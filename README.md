@@ -1,4 +1,5 @@
 # public_telegramBot
+Основано на https://github.com/sorshireality/sorshireality-ruby-teleram-bot-native
 Телеграм бот для ведения канала аниме или подобной тематики
 Есть функция автопринятия запросов на вступление в канал
 # Подготовка перед запуском
